@@ -1,0 +1,7 @@
+<!-- challange
+ 1. pada total pembayaran, jika total pembayaran kurang maka tampilkan "pembayaran kurang"  /halaman transaksi
+ 2. harga nya di rapikan agar simetris semuanya /halaman beranda
+ 3. buat 2 user login pembeli dan kasir(admin), di halaman kasir(buat halaman baru) berisi halaman produk /halaman login proses
+ 4. halaman produk berisi detail produk, kasir bisa menambah dan mengurangi stok /halaman kasir
+ 5. jika stok habis maka tampilkan stok tidak tersedia, jika stok kurang dari 3 maka tampilkan "stok menipis" /halaman beranda
+-->
